@@ -36,7 +36,7 @@ There are multiple goals i want to complete during the Bachelor's Thesis:
 - [ ] Build a test suite to test different solutions
 - [ ] Determine the effects of: 1. multiple webcams, 2. impact point prediction, 3. a combination of solutions; on scoring precision and reliabilty
 
-
+# Future
 I want this code to be OpenSource.
 
 The Darts community is very nice, but all sophisticated, automatic dart recognition software solutions that are working well are ClosedSource at the time of writing.
