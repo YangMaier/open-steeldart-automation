@@ -26,7 +26,7 @@ Which solution is the most precise and reliable?
 Is it really necessary to use more than one camera when the software solution is sophisticated and mature enough?
 
 There are multiple goals i want to complete during the Bachelor's Thesis:
-- [ ] Create a minimal working solution with OpenCV and Python with uncalibrated webcams
+- [ ] Create a minimal working solution with OpenCV and Python with a uncalibrated webcam
 - [ ] Calibrate the cameras via the standardized size of the dartboard
 - [ ] Implement a depths promotion network to generate test data for a Conditional Random Field (CRF)
 - [ ] Train a CRF to predict scores based on darts that still fly
