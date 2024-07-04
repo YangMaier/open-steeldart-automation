@@ -46,7 +46,7 @@ And i hate that.
 After i completed the thesis, i want to use this code to create a complete and OpenSource solution to steeldart recognition.
 
 Minimum features will include (hopefully i have time for all that, oof.)
-- [ ] a complete offline solution (backend, frontend, database, user administation)
+- [ ] a complete offline solution (backend, frontend, database, user administration)
 - [ ] a frontend that can be shown in an app, not sure yet which techstack
 - [ ] a headless online backend
 - [ ] an online score and user database with login (that i will pay for, not sure yet which techstack)
