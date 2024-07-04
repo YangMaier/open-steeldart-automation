@@ -18,8 +18,11 @@ There are various implementation options for each individual step.
 - Multiple neural networks can be trained, one for each necessary step of score calculation.
 
 But which solution can shine in every szenario?
+
 There are a number of cases that can be difficult to deal with. Lightning changes, dart flights drop off, etc..
+
 Which solution is the most precise and reliable?
+
 Is it really necessary to use more than one camera when the software solution is sophisticated and mature enough?
 
 There are multiple goals i want to complete during the Bachelor's Thesis:
