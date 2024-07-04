@@ -31,8 +31,4 @@ There are multiple goals i want to complete:
 - [ ] Train a net for dart impact point detection
 - [ ] Build a point score proposal algorithm to use with multiple webcams
 - [ ] Build a test suite to test different solutions
-- [ ] Determine the effects of:
-      1. multiple webcams
-      2. impact point prediction
-      3. a combination of solutions
-      on precision and reliabilty in scoring
+- [ ] Determine the effects of: 1. multiple webcams, 2. impact point prediction, 3. a combination of solutions; on scoring precision and reliabilty
