@@ -3,7 +3,7 @@ This repository is part of my Bachelor's Thesis.
 
 I will organise the work packages in this [Trello Board](https://trello.com/b/ET7HVk3v/steeldart-recognition).
 
-While I am working on the thesis, I will not accept any merge requests or suggestions. Until it is finished, this will not be a project that can be used to automatically read live dart games.
+While I am working on the thesis, I will not accept any merge requests or suggestions. Until the BA is finished, this will not be a project that can be used to automatically read live dart games.
 
 Several steps are necessary to calculate the score of one or multiple darts in a steeldart board.
 - Get the segments of dartboard fields
