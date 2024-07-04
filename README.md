@@ -38,9 +38,13 @@ There are multiple goals i want to complete during the Bachelor's Thesis:
 
 
 I want this code to be OpenSource.
+
 The Darts community is very nice, but all sophisticated, automatic dart recognition software solutions that are working well are ClosedSource at the time of writing.
+
 And i hate that.
+
 After i completed the thesis, i want to use this code to create a complete and OpenSource solution to steeldart recognition.
+
 Minimum features will include (hopefully i have time for all that, oof.)
 - [ ] a complete offline solution (backend, frontend, database, user administation)
 - [ ] a frontend that can be shown in an app, not sure yet which techstack
