@@ -1,4 +1,4 @@
-# open-steeldart-recognition
+# open-steeldart-automation
 This repository is part of my Bachelor's Thesis.
 
 I will organise the work packages in this [Trello Board](https://trello.com/b/ET7HVk3v/steeldart-recognition).
