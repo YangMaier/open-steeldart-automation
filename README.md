@@ -41,7 +41,7 @@ I want this code to be OpenSource.
 
 The Darts community is very nice, but all sophisticated, automatic dart recognition software solutions that are working well are ClosedSource at the time of writing.
 
-And i hate that.
+And i don't like that.
 
 After i completed the thesis, i want to use this code to create a complete and OpenSource solution to steeldart recognition.
 
