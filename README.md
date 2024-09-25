@@ -53,3 +53,8 @@ Minimum features will include (hopefully i have time for all that, oof.)
 - [ ] backend camera configuration sharing for better initial values on new setups
 - [ ] an uncomplicated and structured way to add game modes
 - [ ] the possibility to upload training data automatically (empty dartboards for field segmentation and ring figure recognition, boards with darts and their corresponding scores, picture sequence with flying dart to impact point for CRF training)
+
+
+25.09.2024
+https://app.roboflow.com/onecamsteeldarts
+
